@@ -44,6 +44,7 @@ int main() {
     int nums2[] = {1, 0, 1, 2};
     int size2 = sizeof(nums2) / sizeof(nums2[0]);
     cout << longestConsecutive(nums2, size2) << endl;
+    cout<<"hello world"<<endl;
 
     return 0;
 }
